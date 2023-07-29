@@ -1,1 +1,1 @@
-# typroa-img
+# blog-img
